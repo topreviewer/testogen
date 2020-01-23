@@ -8,8 +8,7 @@
 layout: home
 ---
 
-<html>
-<head><title>TestoGen Review - What is It, How Does It Work, Price, Where to Buy, Ingredients, Pros And Cons, FAQ</title></head><body><h1>TestoGen Review - What is It, How Does It Work, Price, Where to Buy, Ingredients, Pros And Cons, FAQ</h1>
+<head></head><body><h1>TestoGen Review - What is It, How Does It Work, Price, Where to Buy, Ingredients, Pros And Cons, FAQ</h1>
 <p>Some of the things that define masculinity are energy, confidence, results, accomplishment, and high libido for people. Daily work, family, age, or illness stresses will leave you feeling exhausted, lethargic, and depressed. It ultimately results in under performance, lack of focus, irritability, and excess body fat accumulation. When this occurs, the testosterone levels may have decreased.</p>
 <center><a href="https://bit.ly/TestoGen-Review"><img src="https://drive.google.com/uc?export=view&amp;id=1YIxEQ9csOLVfEgYiFmA7jkXy0C6uwawj" alt="TestoGen Review" height="533" width="800"></a></center><br>
 <center><a href="https://bit.ly/TestoGen-Review"><img src="https://drive.google.com/uc?export=view&amp;id=1IJFAZ-hBnxuZNivHyBQ9FHwMCq0ouY_n" alt="" height="40" width="480"></a></center>
@@ -114,4 +113,3 @@ layout: home
 <p>DIM improves - and sometimes even eliminates - acne by stopping toxic androgens from reaching their receptors. Plus, DIM is an inhibitor of aromatase, meaning it prevents the conversion of testosterone into estrogen.</p>
 <h3>Is D-aspartic acid good for you?</h3>
 <p>While consumption for up to 90 days may be healthy, there is limited information on safety available. Overall, more research is needed before highly recommended D-aspartic acid can be used to improve testosterone.</p></body>
-</html>
