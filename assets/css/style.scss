@@ -3,3 +3,8 @@
 ---
 
 @import "minima-{{ site.minima.skin | default: 'classic' }}";
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
